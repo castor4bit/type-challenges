@@ -1,5 +1,7 @@
 {
   "devDependencies": {
-    "@type-challenges/utils": "^0.1.1"
+    "@type-challenges/utils": "^0.1.1",
+    "eslint": "^8.31.0",
+    "prettier": "^2.8.1"
   }
 }
